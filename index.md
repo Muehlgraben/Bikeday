@@ -1,7 +1,6 @@
 ## Welcome to my site
 
 Here you'll find my everyday routes around Marburg town, I'll be updating my favourite running and cycling loops with a brief description. Fell free to suggest new ones or comment!
-You can use the [editor on GitHub](https://github.com/Muehlgraben/bike/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
