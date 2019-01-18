@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-Here is some information about the [autor!](https://muehlgraben.github.io/javier-lucio/) and ![Image](src)
+Here is some information about the [autor](https://muehlgraben.github.io/javier-lucio/).
+![Image](https://octodex.github.com/images/yaktocat.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
