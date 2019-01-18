@@ -4,9 +4,9 @@ Here you'll find my everyday routes around Marburg town, I'll be updating my fav
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Marburg
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Marburg is a university town in the German federal state (Bundesland) of Hesse, capital of the Marburg-Biedenkopf district (Landkreis). The town area spreads along the valley of the river Lahn and has a population of approximately 72,000.
 
 ```markdown
 Syntax highlighted code block
